@@ -1,0 +1,10 @@
+Git is a distributed version control system widely used for tracking changes in source code during software development.
+
+Key concepts:
+- Repository: a directory containing project files and their history.
+- Commit: a recorded snapshot of changes.
+- Branch: a pointer to a line of development.
+- Merge: combining changes from different branches.
+- Remote: a shared repository hosted on a server or service like GitHub.
+
+Git enables collaboration, history tracking, and rollback of changes with commands such as git init, git add, git commit, git branch, git checkout, git merge, and git push.
